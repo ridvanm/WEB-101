@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  font-size: 10px;
+  font-family: 'Lato',sans-serif;
+  color: #2e354f;
+}
+/* Layout*/
+.container{
+    width: 90%;
+    margin: 0 auto;
+    max-width: 620px;
+}
+h1,h2,h3,h4,h5,h6{
+  font-weight: 900;
+}
+h1{
+  font-size: 5em;
+  margin:0;
+}
+
+h2{
+    font-size:4em;
+    color:#ef5839;
+}
+a{
+    color:#ef5839;
+}
+a:hover,a:focus{
+    color: #d4d4d4;
+}
+ul{
+    /* 1.5 em = 150%*/
+    font-size:1.5em;
+}
+li{
+    font-size: 1.5em;
+}
+
+img{
+    width: 100%;
+}
